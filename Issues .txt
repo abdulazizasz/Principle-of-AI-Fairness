@@ -1,0 +1,3 @@
+Issues so far :
+
+data neads to be cleaned up , i couldnt use the data fro classification purposes
